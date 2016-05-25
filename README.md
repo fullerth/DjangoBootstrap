@@ -20,8 +20,8 @@ Simple Project to quickly get a new Django environment up and running
 ## Templates
 Both project and app templates for django-admin/manage.py are provided.
 
-To create a project in the root directory use:
-`django-admin startproject --template project_template <project-name>`
+To create a project, from the root directory use:
+`django-admin startproject --template project_template <project-name> source`
 
 To create a new application with the template use:
 `manage.py startapp --template <path-to-app-template> <app-name>`
