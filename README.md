@@ -24,7 +24,7 @@ To create a project in the root directory use:
 `django-admin startproject --template project_template <project-name>`
 
 To create a new application with the template use:
-`manage.py startapp --template <path-to-app-template> <app-name>
+`manage.py startapp --template <path-to-app-template> <app-name>`
 
 ## Virtual Environment
 The project will ignore a virtual environment in django_setup_venv. After 
